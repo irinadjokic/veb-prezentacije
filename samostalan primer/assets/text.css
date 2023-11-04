@@ -1,0 +1,33 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif,Arial, sans-serif;
+    background-color: aquamarine;
+}
+#dark-one {
+    color: black;
+}
+h2 {
+    text-align:left;
+    color: darkblue;
+    text-decoration: solid;
+}
+
+p {
+    text-align: justify;
+    margin: 25px;
+    border: 2px solid blue;
+    padding: 30px;
+}
+.suffux {
+    font-size: 2em;
+}
+img{
+    border: 3px solid peru;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+div{
+    background-color: brown;
+}
